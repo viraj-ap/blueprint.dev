@@ -16,7 +16,7 @@
 </p>
 
 <p align = "center" >
-    <img style="height: 300px; width: full;" src="../blueprint-dev/frontend/public/logo.png"/>
+    <img style="height: 300px; width: full;" src="frontend/public/logo.png"/>
 </p>
 
 ## AI Workflow Architecture for Collaborative System Design
